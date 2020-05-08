@@ -9,7 +9,11 @@ using Plots
 ```
 
 ![0](https://github.com/kazumaduy/DATA4319_TruongDuy/blob/master/GradientDescent/0.png)
+
 ![1](https://github.com/kazumaduy/DATA4319_TruongDuy/blob/master/GradientDescent/1.png)
+
 ![2](https://github.com/kazumaduy/DATA4319_TruongDuy/blob/master/GradientDescent/2.png)
+
 ![3](https://github.com/kazumaduy/DATA4319_TruongDuy/blob/master/GradientDescent/3.png)
+
 ![4](https://github.com/kazumaduy/DATA4319_TruongDuy/blob/master/GradientDescent/4.png)
