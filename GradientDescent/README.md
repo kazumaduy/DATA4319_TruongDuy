@@ -4,9 +4,10 @@
 
 ### Packages Used
 
-```
-julia
+```julia
+
 using Plots
+
 ```
 
 ![0](https://github.com/kazumaduy/DATA4319_TruongDuy/blob/master/GradientDescent/0.png)
