@@ -4,7 +4,8 @@
 
 ### Packages Used
 
-``julia
+```
+julia
 using Plots
 ```
 
